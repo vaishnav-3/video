@@ -8,7 +8,7 @@ import sys
 import math
 import pytube
 import six
-from moviepy.editor import VideoFileClip, TextClip, ImageClip, concatenate_videoclips
+from moviepy import VideoFileClip, TextClip, ImageClip, concatenate_videoclips
 
 from sumy.parsers.plaintext import PlaintextParser
 from sumy.nlp.tokenizers import Tokenizer

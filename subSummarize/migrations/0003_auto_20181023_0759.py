@@ -13,6 +13,6 @@ class Migration(migrations.Migration):
         migrations.AlterField(
             model_name='document',
             name='videoDwldURL',
-            field=models.CharField(default='https://www.youtube.com/watch?v=X0lXytdjzQo', max_length=100),
+            field=models.CharField(default='https://youtu.be/Hd5uiln4ImM?si=fPBcC3WrDU74G_ep', max_length=100),
         ),
     ]

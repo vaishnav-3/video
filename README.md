@@ -34,14 +34,6 @@ Read medium article : [Video summarizer made easy](https://medium.com/@aswanthka
 - Or input the video youtube-link
 - Click on download button to download the summarized video
 
-# Screenshots
-
-![screenshot1](screenshots/1.png)
-
-![screenshot2](screenshots/2.png)
-
-![screenshot3](screenshots/3.png)
-
 # Demo 
 
 Watch the Demo video click the image below.
